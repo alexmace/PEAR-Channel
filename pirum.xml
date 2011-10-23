@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<server>
+  <name>pear.m.me.uk</name>
+  <summary>Alex Mace's PEAR Channel</summary>
+  <alias>alexmace</alias>
+  <url>http://pear.m.me.uk/</url>
+</server>

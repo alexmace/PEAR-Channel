@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://pear.m.me.uk</id>
+    <updated>2011-10-23T21:37:00+01:00</updated>
+    <title>Alex Mace's PEAR Channel Latest Releases</title>
+    <link href="http://pear.m.me.uk/feed.xml" rel="self" />
+    <author>
+        <name>http://pear.m.me.uk</name>
+    </author>
+
+
+</feed>
